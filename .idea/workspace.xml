@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47b1ad6b-1d79-4cf5-a04c-4541417d234a" name="Changes" comment="">
+    <list default="true" id="47b1ad6b-1d79-4cf5-a04c-4541417d234a" name="Changes" comment="Uppdaterade koden">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WordList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,28 @@
       <option name="presentableId" value="Default" />
       <updated>1677835069771</updated>
     </task>
+    <task id="LOCAL−00001" summary="Uppdaterade koden">
+      <created>1677846449362</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1677846449362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Uppdaterade koden" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppdaterade koden" />
   </component>
 </project>
